@@ -1,17 +1,12 @@
-# Minuteur — plugin NeoBase
+# Minuteur
 
-Un minuteur simple pour NeoBase : choisis une durée, démarre, et NeoBase te prévient à la fin. Il
-retient ta dernière durée.
-
-C'est aussi un exemple de plugin NeoBase entièrement autonome : il ne demande que la permission
-`storage` et tourne dans le bac à sable, sans accès au reste de NeoBase.
+Un minuteur pour NeoBase. Choisis une durée, lance-le, et NeoBase te prévient quand le temps est
+écoulé. Il retient ta dernière durée d'une fois sur l'autre.
 
 ## Installer
 
-Dans NeoBase : **NeoStore → À découvrir → Minuteur → Installer**. NeoStore trouve ce dépôt grâce au
-topic `neobase-plugin` et télécharge l'archive de la dernière Release.
+Dans NeoBase : **NeoStore → À découvrir → Minuteur → Installer**.
 
-## Développer
+## Développer un plugin
 
-Voir le [SDK des plugins NeoBase](https://github.com/NDesumeur/neobase-sdk). Le format est dans
-[`plugin.json`](plugin.json), le code dans [`index.js`](index.js).
+Le format et le guide sont dans le [SDK NeoBase](https://github.com/NDesumeur/neobase-sdk).
