@@ -1,7 +1,7 @@
 {
   "id": "neobase.minuteur",
   "name": "Minuteur",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "author": "NDesumeur",
   "description": "Un minuteur simple : il retient ta dernière durée et te prévient à la fin.",
   "entry": "index.js",
@@ -12,5 +12,7 @@
   "mobile": true,
   "system": false,
   "dependencies": {},
-  "permissions": ["storage"]
+  "permissions": [
+    "storage"
+  ]
 }
