@@ -1,0 +1,9 @@
+{
+  "pluginId": "neobase.minuteur",
+  "repo": "NDesumeur/neobase-plugin-minuteur",
+  "version": "1.0.0",
+  "sha256": "04c3d8b20b6822e059a807a2fe698159bef751236c543feb9f1e0c5defa72487",
+  "approvedAt": "2026-10-31T02:47:50.526Z",
+  "neobase": ">=4.0.0",
+  "signature": "iUApBSZnyCzApwdiPU56R9xMCh8Q4vDop9L26Yo3jgog4ccqWjVvqlBSKRT8fLm5BkWE1tfaLDdiizEzWCNmBA=="
+}
