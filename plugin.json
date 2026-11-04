@@ -12,6 +12,7 @@
   "mobile": true,
   "system": false,
   "dependencies": {},
+  "sdk": "2.1.0",
   "permissions": [
     "storage"
   ]
