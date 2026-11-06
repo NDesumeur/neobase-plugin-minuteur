@@ -1,9 +1,9 @@
 {
   "pluginId": "neodex.minuteur",
   "repo": "NDesumeur/neodex-plugin-minuteur",
-  "version": "1.1.1",
-  "sha256": "5ba597d8965e21f4982fcd5f48908896f93a86b744a555df569c4945d89699fc",
-  "approvedAt": "2026-11-04T10:05:10.907Z",
+  "version": "1.1.2",
+  "sha256": "451557e7c2d73d405cd32592c9de7ccc12b2cc034402cb1fa210d295c6b150c2",
+  "approvedAt": "2026-11-06T21:35:48.000Z",
   "neobase": ">=4.0.0",
-  "signature": "h4ylA8L1beMbroErPR4ROUJJ8x6WbaKqloHBMcSkMa4JNEddxJvEiV2BGvnBeSHG72mDIDczg/gjemZGRZuRAA=="
+  "signature": "7xN1/5J/7Z8L31hzLjzy0RzOUseaKjJ5DpuXrkqpnWD2ojRIVHM13VAvO/neBbL/f4CCNRb/tO0r36bMZqGYBg=="
 }
